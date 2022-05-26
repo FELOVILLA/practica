@@ -1,3 +1,3 @@
-steven
+steven = steven universe
 lucho = luis carlos hernandez lopez
-felipe
+felipe = farley felipe orrego
